@@ -3,5 +3,5 @@
 </script>
 
 <template>
-    <GameWindow></GameWindow>
+    <GameWindow/>
 </template>
